@@ -1,4 +1,4 @@
-# ResumeMaker
+# ResumeMaker React
 
 
 A modern, user-friendly resume builder application built with React and Vite.
